@@ -1,5 +1,14 @@
 // Assignment code here
 
+//defining generatePassword function
+function generatePassword(){
+  //on click of genPassword, user will be given a series of prompts and will select criteria for password creation
+
+
+  //after user is prompted and password is generated to criteria, will be presented with return()
+  return("Generated password goes here!");
+
+}
 
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
